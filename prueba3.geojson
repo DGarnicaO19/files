@@ -60,13 +60,7 @@
                             ]
                         ]
                     ]
-                ],
-                "crs": {
-                    "type": "name",
-                    "properties": {
-                        "name": "EPSG:9377"
-                    }
-                }
+                ]
             },
             "properties": {
                 "t_ili_tid": "f2585c8d-04f2-4fe6-9d48-9e4f21e8cf34",
@@ -126,13 +120,7 @@
                             ]
                         ]
                     ]
-                ],
-                "crs": {
-                    "type": "name",
-                    "properties": {
-                        "name": "EPSG:9377"
-                    }
-                }
+                ]
             },
             "properties": {
                 "t_ili_tid": "f2c3ca62-8e26-4864-b8d7-3b34d3d3557d",
@@ -182,13 +170,7 @@
                             ]
                         ]
                     ]
-                ],
-                "crs": {
-                    "type": "name",
-                    "properties": {
-                        "name": "EPSG:9377"
-                    }
-                }
+                ]
             },
             "properties": {
                 "t_ili_tid": "6ac58d9d-17bc-473f-8385-bb093373a74a",
@@ -253,13 +235,7 @@
                             ]
                         ]
                     ]
-                ],
-                "crs": {
-                    "type": "name",
-                    "properties": {
-                        "name": "EPSG:9377"
-                    }
-                }
+                ]
             },
             "properties": {
                 "t_ili_tid": "22a11d26-b151-40cf-9e10-de796038a907",
