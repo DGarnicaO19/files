@@ -2,7 +2,6 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "id": 1339123,
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -84,7 +83,6 @@
             }
         },
         {
-            "id": 1339124,
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -151,7 +149,6 @@
             }
         },
         {
-            "id": 1339125,
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -208,7 +205,6 @@
             }
         },
         {
-            "id": 1339126,
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
