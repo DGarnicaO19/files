@@ -1,0 +1,283 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": 1339123,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                4839247.190942976,
+                                2103255.7521042246,
+                                0.0
+                            ],
+                            [
+                                4839239.963948366,
+                                2103283.112579259,
+                                0.0
+                            ],
+                            [
+                                4839227.110931012,
+                                2103266.9218752324,
+                                0.0
+                            ],
+                            [
+                                4839215.830207438,
+                                2103228.020818637,
+                                0.0
+                            ],
+                            [
+                                4839205.302055735,
+                                2103168.9316502437,
+                                0.0
+                            ],
+                            [
+                                4839232.000012795,
+                                2103126.583183978,
+                                0.0
+                            ],
+                            [
+                                4839264.557027627,
+                                2103140.5393280275,
+                                0.0
+                            ],
+                            [
+                                4839248.791594253,
+                                2103175.880619458,
+                                0.0
+                            ],
+                            [
+                                4839243.303698027,
+                                2103227.100984236,
+                                0.0
+                            ],
+                            [
+                                4839247.190942976,
+                                2103255.7521042246,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:9377"
+                    }
+                }
+            },
+            "properties": {
+                "t_ili_tid": "f2585c8d-04f2-4fe6-9d48-9e4f21e8cf34",
+                "area_terreno": "34.0",
+                "avaluo_terreno": null,
+                "manzana_vereda_codigo": null,
+                "etiqueta": null,
+                "comienzo_vida_util_version": "2021-06-21T17:54:42.926000Z",
+                "fin_vida_util_version": null,
+                "espacio_de_nombres": "ik",
+                "local_id": "1",
+                "dimension": null,
+                "relacion_superficie": null
+            }
+        },
+        {
+            "id": 1339124,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                4839264.557027627,
+                                2103140.5393280275,
+                                0.0
+                            ],
+                            [
+                                4839232.000012795,
+                                2103126.583183978,
+                                0.0
+                            ],
+                            [
+                                4839248.334269567,
+                                2103092.6475266926,
+                                0.0
+                            ],
+                            [
+                                4839250.016015548,
+                                2103061.517105271,
+                                0.0
+                            ],
+                            [
+                                4839271.843374922,
+                                2103039.5036788946,
+                                0.0
+                            ],
+                            [
+                                4839309.219449312,
+                                2103058.0144384867,
+                                0.0
+                            ],
+                            [
+                                4839264.557027627,
+                                2103140.5393280275,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:9377"
+                    }
+                }
+            },
+            "properties": {
+                "t_ili_tid": "f2c3ca62-8e26-4864-b8d7-3b34d3d3557d",
+                "area_terreno": "9.0",
+                "avaluo_terreno": null,
+                "manzana_vereda_codigo": null,
+                "etiqueta": null,
+                "comienzo_vida_util_version": "2021-06-21T17:55:14.378000Z",
+                "fin_vida_util_version": null,
+                "espacio_de_nombres": "ik",
+                "local_id": "1",
+                "dimension": null,
+                "relacion_superficie": null
+            }
+        },
+        {
+            "id": 1339125,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                4839309.219449312,
+                                2103058.0144384867,
+                                0.0
+                            ],
+                            [
+                                4839271.843374922,
+                                2103039.5036788946,
+                                0.0
+                            ],
+                            [
+                                4839304.574636601,
+                                2103015.8387568947,
+                                0.0
+                            ],
+                            [
+                                4839322.613,
+                                2103026.646,
+                                0.0
+                            ],
+                            [
+                                4839309.219449312,
+                                2103058.0144384867,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:9377"
+                    }
+                }
+            },
+            "properties": {
+                "t_ili_tid": "6ac58d9d-17bc-473f-8385-bb093373a74a",
+                "area_terreno": "8.0",
+                "avaluo_terreno": null,
+                "manzana_vereda_codigo": null,
+                "etiqueta": null,
+                "comienzo_vida_util_version": "2021-06-21T17:55:32.378000Z",
+                "fin_vida_util_version": null,
+                "espacio_de_nombres": "ik",
+                "local_id": "1",
+                "dimension": null,
+                "relacion_superficie": null
+            }
+        },
+        {
+            "id": 1339126,
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                4839309.219449312,
+                                2103058.0144384867,
+                                0.0
+                            ],
+                            [
+                                4839322.763862135,
+                                2103072.525240529,
+                                0.0
+                            ],
+                            [
+                                4839334.997297472,
+                                2103083.958357667,
+                                0.0
+                            ],
+                            [
+                                4839390.592641148,
+                                2103121.4784489404,
+                                0.0
+                            ],
+                            [
+                                4839375.117028205,
+                                2103136.9295572597,
+                                0.0
+                            ],
+                            [
+                                4839343.654218278,
+                                2103180.552526583,
+                                0.0
+                            ],
+                            [
+                                4839264.557027627,
+                                2103140.5393280275,
+                                0.0
+                            ],
+                            [
+                                4839309.219449312,
+                                2103058.0144384867,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:9377"
+                    }
+                }
+            },
+            "properties": {
+                "t_ili_tid": "22a11d26-b151-40cf-9e10-de796038a907",
+                "area_terreno": "7.0",
+                "avaluo_terreno": null,
+                "manzana_vereda_codigo": null,
+                "etiqueta": null,
+                "comienzo_vida_util_version": "2021-06-21T17:55:51.206000Z",
+                "fin_vida_util_version": null,
+                "espacio_de_nombres": "ik",
+                "local_id": "1",
+                "dimension": null,
+                "relacion_superficie": null
+            }
+        }
+    ]
+}
