@@ -3,7 +3,19 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "t_ili_tid": "f2585c8d-04f2-4fe6-9d48-9e4f21e8cf34",
+        "area_terreno": "34.0",
+        "avaluo_terreno": null,
+        "manzana_vereda_codigo": null,
+        "etiqueta": null,
+        "comienzo_vida_util_version": "2021-06-21T17:54:42.926000Z",
+        "fin_vida_util_version": null,
+        "espacio_de_nombres": "ik",
+        "local_id": "1",
+        "dimension": null,
+        "relacion_superficie": null
+      },
       "geometry": {
         "coordinates": [
           [
